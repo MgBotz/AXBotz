@@ -31,15 +31,15 @@ module.exports = {
         global.img = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
         global.fla = pickRandom(global.flaaa)
         global.namabot = conn.user.name
-        global.packname = '© RaaBotz-MD'
-        global.author = 'Made By Claraa © 2022'
+        global.packname = '© MG-BOTZ'
+        global.author = 'Made By Alex © 2022'
         global.packname2 = 'Made With'
-        global.author2 = 'Raa Bot By Claraa © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Claraa˚'
-        global.wm2 = '©𝙍𝙖𝙖-𝘽𝙤𝙩𝙯-𝙈𝘿' + ' ' + 'By 𝐂𝐥𝐚𝐫𝐚𝐚'
-        global.wm = '© 𝙍𝙖𝙖-𝘽𝙤𝙩𝙯--𝙈𝘿'
+        global.author2 = 'MG-Botz By Alex © 2022'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Alex˚'
+        global.wm2 = '©Subscribe' + ' ' + 'Alex Pakel'
+        global.wm = '© Stiker By Alex'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Claraa'
+        global.colong2 = 'By Alex'
         global.kontak2 = [
         ['6282171432358', 'Alex', 'Owner Bot', 'Clarz939@support.com', true],
         ['6281287142545', 'MG-Botz', 'Bot WhatsApp', 'Just Bot', true]
