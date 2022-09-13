@@ -8,8 +8,8 @@ let handler = async (m, { conn }) => {
     let url = json[Math.floor(Math.random() * json.length)] 
 await conn.sendButtonImg(m.chat, await (await fetch(url)).buffer(), 'Kawai >_<', wm, 'NEXT', '.furry', m, { quoted: m, contextInfo: { 
          externalAdReply: { 
-             title: 'Claraa Suka Furry UωU',
-             body: `${pickRandom(['Furry Indonesia :3', 'Suka Pokemon Nggak Kak :3', 'Kangen Clara Nggak?', 'Udah makan belum kak?', 'Udah Makan Belum?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'Jangan spam ya kak!', 'Jangan lupa donasi yak kak! QωQ', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! UωU', 'Clara Sayang Kamu :3', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+             title: 'Saya Suka anime UwU',
+             body: `${pickRandom(['Furry Indonesia :3', 'Suka anime Nggak Kak :3', 'Kangen Alex Nggak?', 'Udah makan belum kak?', 'Udah Makan Belum?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'Jangan spam ya kak!', 'Jangan lupa donasi yak kak! QωQ', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! UωU', 'Aku Sayang Kamu :3', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
              description: 'Now Playing...', 
              mediaType: 2, 
            thumbnail: await (await fetch('https://telegra.ph/file/1f8e012df6e4aca2fbd11.jpg')).buffer(), 
