@@ -37,12 +37,12 @@ module.exports = {
         global.author2 = 'MG-Botz By Alex © 2022'
         global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Alex˚'
         global.wm2 = '©Subscribe' + ' ' + 'Alex Pakel'
-        global.wm = '© Stiker By Alex'
+        global.wm = 'SUBSCRIBE ALEX PAKEL'
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'By Alex'
         global.kontak2 = [
-        ['6282171432358', 'Alex', 'Owner Bot', 'Clarz939@support.com', true],
-        ['6281287142545', 'MG-Botz', 'Bot WhatsApp', 'Just Bot', true]
+        ['6282171432358', 'Alex', 'Owner Bot', 'Jangan takut chat Ownernya', true],
+        ['6281287142545', 'MG-Botz', 'Nomor Bot WhatsApp', 'Jangan Spam Botnya', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
