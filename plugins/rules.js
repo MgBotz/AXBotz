@@ -1,14 +1,17 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => conn.send3ButtonImg(m.chat, await (await fetch(fla+ 'Rules')).buffer(),`
+*JOIN GROUP*
+_Link Groupnya_
+https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC
+
 *Rules Bot*:
-1. Dilarang telp/vc bot
+1.Dilarang telp/vc bot
 2. Harap beri jeda saat menggunakan bot (jangan spam)
 3. Dilarang mengeksploitasi bot
 4. Dilarang menjual belikan bot, sebab bot ini free untuk digunakan (kecuali memasukkan ke dalam group)
 5. Bot tidak menyimpan data user
 6. Kami tidak bertanggung jawab atas apa yg user lakukan kepada bot ataupun sebaliknya
-7. Hindari konten pornografi (berupa gambar, dokumen, video, dan stiker)
-8. Bot yang sudah dikick dari group berarti masa sewa habis
+7. Hindari konten pornografi (berupa gambar, dokumen, video, dan stiker). Bot yang sudah dikick dari group berarti masa sewa habis
 
 *Kebijakan Privasi:*
  1. bot tidak akan merekam data riwayat chat user. 
