@@ -15,7 +15,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
     title: titlink,
     body: wm,
     thumbnail: await(await fetch(image)).buffer(),
-    sourceUrl: 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
+    sourceUrl: 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC'
      }}
   })
 }
