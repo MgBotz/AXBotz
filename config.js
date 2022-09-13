@@ -4,7 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6282171432358', 'Claraa', true], 
+['6282171432358', 'Nomor Owner',true], 
 ['6281287142545', 'TOLONG JGN SPAM', true] 
 ]
 global.APIs = { // API Prefix
@@ -35,13 +35,13 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
-global.WM = 'Sticker By Alex'
+global.WM = 'SUBSCRIBE ALEX PAKEL'
 global.linkgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC'
 global.linkig = 'https://www.instagram.com/inizenscuy'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@inizenscuy'
+global.bodlink = '@al_pakel'
 
 global.wait = '_*Memproses harap menunggu...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
