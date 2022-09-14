@@ -8,7 +8,7 @@ let levelling = require('../lib/levelling')
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => { 
 	let hao = ` 
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'62895604670507'.split('@')[0]}*` 
+ *Powered By @${'6282171432358'.split('@')[0]}*` 
   let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../package.json')).catch(_ => '{}'))
     let { exp, limit, age, money, level, role, registered } = global.db.data.users[m.sender]
     let { min, xp, max } = levelling.xpRange(level, global.multiplier)
@@ -97,8 +97,8 @@ const fkgif = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text":`RaaBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
-                 "title": `RaaBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "text":`MGBotz MD🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "title": `MGBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
                  'jpegThumbnail': await (await fetch('https://telegra.ph/file/6f11ac2de8d57a1c831c4.jpg')).buffer()
                         }
 	                  } 
@@ -108,10 +108,10 @@ const fkgif = {
 
 ●────━───༺༻───━────●
                 *《 BOT INFO 》*
-⚘ *Bot Name: RaaBotz-MD*
-⚘ *Creator: Claraa Chan*
+⚘ *Bot Name: MGBOTZ-MD*
+⚘ *Creator: Alex*
 ⚘ *Contact Owner Bot*
-*http://wa.me/62895604670507*
+*http://wa.me/6282171432358*
 ⚘ *Tanggal: ${date}*  
 ⚘ *Jam: ${time} WIB*
 ⚘ *Status: 「 ${mode} 」*
@@ -150,7 +150,7 @@ _*${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik*_
 let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner
 
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'62895604670507'.split('@')[0]}*`
+ *Owner By @${'6282171432358'.split('@')[0]}*`
        let judul = `${ucapanl()}`.trim() 
        const sections = [
                               {
@@ -179,8 +179,8 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                          "description": "Cek Posisi Mu",
                                          "rowId": ".lb"  
                                     }, {
-                                         "title": "💌 › Group Official Bot",
-                                         "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                                         "title": "💌 › Group Mabar atau Bot",
+                                         "description": "Gabung untuk meramaikan groupnya atau main bot",
                                          "rowId": ".gcbot"                               
       }],             
                     "title": "▮Status 」"
@@ -324,7 +324,7 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                 "title": "▮Last Update 」"
                                 }, {
                                 "rows": [{                                	
-                  "title": "「 🗨️ 」› Raa Chat ",
+                  "title": "「 🗨️ 」› Anonymous ",
                   "description": "Mengobrol Dengan Orang Lain",
                   "rowId": ". start"
                 }],
@@ -378,7 +378,7 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
            ] 
     const listMessage = {
       text: `Hai Kak ${name} Pilih Menu Dibawah Ini Yah Kak`.trim(),
-      footer: 'Tetap Follow Terus Bot Yah Kak >//<',
+      footer: 'Tetap Subscribe Terus Alex Pakel Yah Kak >//<',
       title: judul,
       buttonText: "Pilih Disini",
       sections
