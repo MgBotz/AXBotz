@@ -34,25 +34,25 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtu.be/RlhkqeUDZrA'
+global.linkyt = 'https://youtu.be/ELPp9VU4qlA'
 global.WM = 'SUBSCRIBE ALEX PAKEL'
 global.linkgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC'
-global.linkig = 'https://www.instagram.com/inizenscuy'
+global.linkig = 'https://www.instagram.com/al_pakel'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = '@al_pakel'
 
-global.wait = '_*Memproses harap menunggu...*_'
+global.wait = '_*Memproses harap menunggu... Jika tidak ada modul bot error*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
-global.dtu = '🌏 GROUP OFFICIAL'
+global.dtu = '🌏 GROUP BOT OFFICIAL'
 global.urlnya = global.linkgc
 
 //============= callButtons ============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.dtc = 'Subs Alex Pakel'
+global.phn = '+62 821-7143-2358'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
