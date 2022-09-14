@@ -186,7 +186,7 @@ ${'```%npmdesc```'}
            let hao = `▸ Ⓟ = for premium users.\n▸ Ⓛ = fitur berlimit.
  
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'62895604670507'.split('@')[0]}*`
+ *Nomor Owner @${'6282171432358'.split('@')[0]}*`
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
      let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
      let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../package.json')).catch(_ => '{}')) 
@@ -400,8 +400,8 @@ return conn.send3ButtonLoc(m.chat, await conn.resize(pickRandom(global.waifu), 
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
-             title: 'RaaBotz-MD Testing Project By Claraa', 
-             body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
+             title: 'MGBotz Testing Project By Alex', 
+             body: `${pickRandom(['udah Subs Alex Pakel belum?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti :‹'])}`, 
              description: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              mediaType: 2, 
            thumbnail: await genProfile(conn, m),
@@ -416,7 +416,7 @@ await conn.send2ButtonLoc(m.chat, await conn.resize(await (await fetch(flu + te
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
-             title: 'RaaBotz-MD Testing Project By Claraa', 
+             title: 'MGBotz By Alex', 
              body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              description: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`, 
              mediaType: 2, 
